@@ -4,7 +4,11 @@ data = [int(x) for x in input().split()]
 list = []
 for i in data:
     rem == i%10
-    if rem
+    list.append(rem)
+    if list[-1]==0
+        print("Yes")
+    else:
+        print("No")b
 
 #Տարբերակ 2
 N = int(input())
