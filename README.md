@@ -6,6 +6,8 @@ prob_zoos - https://www.hackerearth.com/practice/basic-programming/input-output/
 
 prob_factorial - https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/
 
+prob_pdrom_HE - https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/
+
 ### leetcode
 
 prob_pdrom - https://leetcode.com/problems/palindrome-number/
