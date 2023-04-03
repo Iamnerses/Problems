@@ -8,7 +8,7 @@ for i in data:
     if list[-1]==0
         print("Yes")
     else:
-        print("No")b
+        print("No")
 
 #Տարբերակ 2
 N = int(input())
