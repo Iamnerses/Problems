@@ -26,5 +26,9 @@ if calc_verse.capitalize() == str("Ios"):
 
 elif calc_verse.capitalize() == str("Android"):
     print("You have chosed Android\n\nHere are Android calculator functions\n>>>\n\n>Modulo")
+    while True:
+        
+       cont=str(input("Enter Yes to quit"))
+       break:
 else:
     print("Wrong input try again")
