@@ -25,6 +25,6 @@ if calc_verse.capitalize() == str("Ios"):
  
 
 elif calc_verse.capitalize() == str("Android"):
-    print("You have chosed Android\n\nHere are Android calculator functions(basic functions exluded)")
+    print("You have chosed Android\n\nHere are Android calculator functions\n>>>\n\n>Modulo")
 else:
     print("Wrong input try again")
