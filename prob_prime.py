@@ -1,3 +1,5 @@
+#defines if input is prime or not
+
 num = int(input())    
 is_prime = True     
 if num > 1:   
