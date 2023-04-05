@@ -30,9 +30,12 @@ while True:
         y=int(input("Enter second number: "))
         oper = input("Enter operator(+,-,*,/)")
         if oper == "+":        
-           print( calc.sum())
+           print(calc.sum())
 
     elif calc_verse.capitalize() == str("Android"):
         print("You have chosed Android\n\nHere is Android calculator function\n>>>\n\n>Modulo division\n\n")
+        x=int(input("Enter first number: "))
+        y=int(input("Enter second number: "))
+        oper = input("Enter operator(+,-,*,/)")
     else:
         print("Wrong input try again")
